@@ -1,0 +1,7 @@
+{
+  "name": "GenGuru",
+  "description": "Platform berbasis AI untuk otomatisasi administrasi guru dan bank soal adaptif.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
